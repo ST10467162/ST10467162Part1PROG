@@ -1,4 +1,5 @@
 # ST10467162Part1PROG
+
 Chat App — Part 1: Registration and Login
 This is a console-based Java application that allows a user to register an account and then log in using the details they registered with. The program follows the requirements given in the task brief.
 
